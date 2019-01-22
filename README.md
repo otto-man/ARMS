@@ -1,4 +1,4 @@
-# Otto-Man kol eklemiş modeli kodları ve STL dosyaları v1.0
+# Otto-man kendin yap robotu kol eklemiş modeli kodları ve STL dosyaları v1.0
 
 Arduino Kütüphaneleri ve Sketch, bazı temel talimatlar da dahil edilmiştir
 
