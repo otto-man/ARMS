@@ -1,8 +1,8 @@
-# Otto DIY with Arms Code and STL files   v1.0
+# Otto-Man kol eklemiş modeli kodları ve STL dosyaları v1.0
 
-Arduino Libraries and Sketch, Some basic instructions also included
+Arduino Kütüphaneleri ve Sketch, bazı temel talimatlar da dahil edilmiştir
 
-## Info
+## Bilgi
 
 Otto has fully functioning arm movements, this has come with a small price to pay, Some of Otto's mouths have been removed
 to allow for the additional memory needed for the arms, these include the numbers 5 -9 and the vampire mouths (sorry)
